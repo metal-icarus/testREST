@@ -5,6 +5,7 @@ import java.io.Serializable;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 //comentario para curso de git
+//comentario 2 para curso de git
 @XmlRootElement(name="user")
 public class User  implements Serializable{
 
