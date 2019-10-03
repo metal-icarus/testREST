@@ -19,5 +19,4 @@ public class UserService {
 		return userDao.getAllUsers(); 
 	}
 }
-//comentario para probar rebase conflict
 //comentario en master para generar conflicto
