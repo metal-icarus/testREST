@@ -1,5 +1,5 @@
 package com.tutorialspoint;
-
+// prueba 2 para stash
 import java.io.Serializable;
 
 import javax.xml.bind.annotation.XmlElement;
