@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
 public class UserService {
 
 	UserDao userDao = new UserDao();
-	
+	//comentario para probar stash y branch
 	@GET
 	@Path("/users")
 	@Produces(MediaType.APPLICATION_XML)

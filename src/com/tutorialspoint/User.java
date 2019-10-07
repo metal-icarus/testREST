@@ -1,7 +1,7 @@
 package com.tutorialspoint;
 // prueba 2 para stash
 import java.io.Serializable;
-
+//comentario stash multiple
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 //comentario para curso de git
@@ -17,7 +17,7 @@ public class User  implements Serializable{
 	public User() { 
 		
 	}
-	
+		//comentario para probar stash y branch
 	public User(int id, String name, String profession) {
 		
 	}
