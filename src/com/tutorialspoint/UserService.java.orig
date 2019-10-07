@@ -19,4 +19,10 @@ public class UserService {
 		return userDao.getAllUsers(); 
 	}
 }
-//nuevo comentario para probar nuevo stash
+//comentario en master para generar conflicto
+//comentario para probar post rebase fix abort
+<<<<<<< HEAD
+//comentario para probar pull with rebase
+=======
+//comentario desde github 
+>>>>>>> refs/remotes/origin/master
